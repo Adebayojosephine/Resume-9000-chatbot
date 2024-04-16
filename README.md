@@ -29,7 +29,7 @@ Welcome to ResumeBot 9000, your personalized resume assistant designed and craft
 
 Connect with Josephine today!
 
-[LinkedIn]("https://www.linkedin.com/in/josephine-adebayo/") | [GitHub]("https://github.com/Adebayojosephine")
+[LinkedIn](https://www.linkedin.com/in/josephine-adebayo/) | [GitHub](https://github.com/Adebayojosephine)
 
 ---
 
